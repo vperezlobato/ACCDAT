@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="libraryTable">
+    <library name="adaptive">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Microsoft JDBC Driver 4.0 for SQL Server/sqljdbc_4.0/esn/help/samples/adaptive" />
+        <root url="file://C:/Microsoft JDBC Driver 4.0 for SQL Server/sqljdbc_4.0/esn/help/samples/connections" />
+        <root url="file://C:/Microsoft JDBC Driver 4.0 for SQL Server/sqljdbc_4.0/esn/help/samples/datatypes" />
+        <root url="file://C:/Microsoft JDBC Driver 4.0 for SQL Server/sqljdbc_4.0/esn/help/samples/resultsets" />
+        <root url="file://C:/Microsoft JDBC Driver 4.0 for SQL Server/sqljdbc_4.0/esn/help/samples/sparse" />
+      </SOURCES>
+    </library>
+  </component>
+</project>
